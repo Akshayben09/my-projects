@@ -31,3 +31,4 @@ while (True):
                  print (i, end=' ')
   else:
      print ("invalid input")
+     break
